@@ -87,7 +87,7 @@ Stores all instructions and source files for facial tracking workshop
 * See if you have a `.bash_profile` file
   * Do this by executing the following command:
     ```
-    ls
+    ls -a
     ```
   * Look at the output and see if you have the file
   * If you DO NOT have this file, create it with the following command (otherwise, skip to the next step):
