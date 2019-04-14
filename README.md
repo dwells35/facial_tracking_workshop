@@ -5,7 +5,7 @@ Stores all instructions and source files for facial tracking workshop
 ### Windows
 #### Install Visual Studio 2017
 * When the Installer opens, **MAKE SURE TO INSTALL "DESKTOP DEVELOPMENT WITH C++"** (You'll know if you are going to install it if there is a check mark in the little box [see below])  
-![alt text](Resources/readme_resource/VisualStudioC++.JPG "Box that should be checked")
+![alt text](VisualStudioC++.JPG "Box that should be checked")
 #### Install Python 3 (If you do not have Python3.4+; else, skip this step)
 * Go to the link and install the newest release of Python: https://www.python.org/downloads/windows/
 #### Install git
