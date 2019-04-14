@@ -29,8 +29,8 @@ Stores all instructions and source files for facial tracking workshop
 * Open Powershell **AS ADMINISTRATOR**
 * Run the following command:
   ```
-  python -m pip install virtualenv
-  python -m pip install virtualenvwrapper-win
+  python3 -m pip install virtualenv
+  python3 -m pip install virtualenvwrapper-win
   ```
   * NOTE: This step might take some trial and error; this just depends on packages you've already installed and your admin permissions
 * Close Powershell
@@ -79,7 +79,7 @@ Stores all instructions and source files for facial tracking workshop
 #### Install Virtual Environment Packages
 * Run the following command:
   ```
-  sudo pip install virtualenv virtualenvwrapper
+  python3 -m pip install virtualenv virtualenvwrapper
   ```
   * NOTE: This step might take some trial and error; this just depends on packages you've already installed and your admin permissions
 #### Setup the Virtual Environment Path
