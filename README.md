@@ -53,6 +53,7 @@ Stores all instructions and source files for facial tracking workshop
 #### Install Python 3 (If you don't already have version 3.4+)
 * Check what version by opening the Terminal and running `python3 --version`
 * If the above step does not work, you don't have Python 3
+* Go to this link and download the 32bit/64bit installer for Python 3.6.8: https://www.python.org/downloads/mac-osx/
 #### Install git
 * Open the Terminal
 * Run the following command: `git --version`
